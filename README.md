@@ -28,3 +28,5 @@ This project follows an Agile Scrum methodology. Our team works in sprints, with
 - Omar Hamed - Developer 
 - Rana Hazem - Developer
 - Mariam Agamy - Developer
+
+  ## Figma link: https://www.figma.com/design/oODZuxDR6nLnnjeUSLGtOP/Pizza-Shop-Website-(Community)?node-id=0-1&t=XZOM6o3f1RRFYxIc-1
