@@ -14,5 +14,12 @@ APIzza is a pizza delivery service that lets customers create their own pizza or
 - Loyalty Points
 - Customer Support Chat
 
+## Scrum Process
+This project follows an Agile Scrum methodology. Our team works in sprints, with regular stand-up meetings and retrospective sessions to ensure continuous improvement. The project board, managed in GitHub under the "Projects" tab, contains columns for each stage of our workflow:
 
+To Do - New tasks added for each sprint.
+In Progress - Tasks currently being worked on.
+In Review - Tasks undergoing code review.
+Done - Completed tasks.
 
+Project Board: 
