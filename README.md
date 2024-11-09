@@ -21,5 +21,3 @@ This project follows an Agile Scrum methodology. Our team works in sprints, with
 - In Progress - Tasks currently being worked on.
 - In Review - Tasks undergoing code review.
 - Done - Completed tasks.
-
-Project Board: 
