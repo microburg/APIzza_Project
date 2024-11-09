@@ -23,8 +23,8 @@ This project follows an Agile Scrum methodology. Our team works in sprints, with
 - Done - Completed tasks.
 
 ## Team Members
-[Mahmoud Abdeltawab] - Developer
-[Ziad Shaaban] - Developer 
-[Omar Hamed] - Developer 
-[Rana Hazem] - Developer
-[Mariam Agamy] - Developer
+- Mahmoud Abdeltawab - Developer
+- Ziad Shaaban - Developer 
+- Omar Hamed - Developer 
+- Rana Hazem - Developer
+- Mariam Agamy - Developer
