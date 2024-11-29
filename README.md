@@ -1,33 +1,70 @@
-# APIzza
+# Getting Started with Create React App
 
-APIzza is a pizza delivery service that lets customers create their own pizza or choose from a menu of available pizzas. Customers can also customize orders, view pizza ratings, and use loyalty points to get discounts.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
-- User account
-- Menu Browsing
-- Custom Pizza Creation
-- ordering and payment
-- Delivery, Pickup, and Dine-in 
-- Feedback and Rating
-- Promotions and Discounts
-- Add to Favorites
-- Loyalty Points
-- Customer Support Chat
+## Available Scripts
 
-## Scrum Process
-This project follows an Agile Scrum methodology. Our team works in sprints, with regular stand-up meetings and retrospective sessions to ensure continuous improvement. The project board, managed in GitHub under the "Projects" tab, contains columns for each stage of our workflow:
+In the project directory, you can run:
 
-- To Do - New tasks added for each sprint.
-- In Progress - Tasks currently being worked on.
-- In Review - Tasks undergoing code review.
-- Done - Completed tasks.
+### `npm start`
 
-## Team Members
-- Mahmoud Abdeltawab - Developer
-- Ziad Shaaban - Developer 
-- Omar Hamed - Developer 
-- Rana Hazem - Developer
-- Mariam Agamy - Developer
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Figma link:
-  https://www.figma.com/design/oODZuxDR6nLnnjeUSLGtOP/Pizza-Shop-Website-(Community)?node-id=0-1&t=XZOM6o3f1RRFYxIc-1
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
