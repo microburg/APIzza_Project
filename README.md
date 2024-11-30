@@ -31,3 +31,11 @@ This project follows an Agile Scrum methodology. Our team works in sprints, with
 
 ## Figma link:
   https://www.figma.com/design/oODZuxDR6nLnnjeUSLGtOP/Pizza-Shop-Website-(Community)?node-id=0-1&t=XZOM6o3f1RRFYxIc-1
+
+## How to run the code
+- python -m venv .venv
+- ./.venv/Scripts/activate
+- pip install -r requirments.txt
+- python manage.py runserver
+- cd frontend
+- npm start
